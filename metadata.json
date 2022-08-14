@@ -1,8 +1,8 @@
 {
   "name": "KidsArt",
    "description":"Kids Drawings supported by designer and Art house.",
-   "image":"external-link-url/Mystery_Box.png",
-   "external_link":"https://gateway.pinata.cloud/ipfs/QmaueT8K95e6m1cDkiAHAsDu5dqpihmqpHhGFKL466h7sM",
+   "image":"https://frankielai.com/images/img1.jpg",
+   "external_link":"https://frankielai.com",
    "seller_fee_basics_points":500, 
    "fee_recipient":"0xAf207b222fd541C8cE3a083c5D1b39EFBee7fB9B"
 }
